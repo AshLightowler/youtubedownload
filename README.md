@@ -1,4 +1,4 @@
-# Project Title
+# Simple Youtube downloader
 
 This document provides instructions on how to set up and run this project.
 

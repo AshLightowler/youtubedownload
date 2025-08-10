@@ -35,7 +35,7 @@ Before installing the final packages, set up your workspace.
 
 ### 5. Install Required Python Package
 
-Finally, you need to install the `pytubefix` library. Open the terminal within VS Code (**View** -> **Terminal**) and type the following command: pip install pytubefix
+Finally, you need to install the `pytubefix` library. Open the terminal within VS Code (**View** -> **Terminal**) and type the following command: `pip install pytubefix`
 
 ## ▶️ Running the Project
 Once all the setup steps are completed, you can run the program.

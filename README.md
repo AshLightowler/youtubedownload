@@ -37,7 +37,7 @@ Before installing the final packages, set up your workspace.
 
 Finally, you need to install the `pytubefix` library. Open the terminal within VS Code (**View** -> **Terminal**) and type the following command: pip install pytubefix
 
-##▶️ Running the Project
+## ▶️ Running the Project
 Once all the setup steps are completed, you can run the program.
 
 With your project folder open in VS Code, open the main Python file.
@@ -48,5 +48,5 @@ When prompted by the program, copy and paste the URL for the video or playlist y
 
 Follow the remaining prompts in the terminal.
 
-##📝 Notes
+## 📝 Notes
 You can skip the audio encoding step if you have VLC Media Player installed, which will make the process much faster. VLC can be installed directly from the Microsoft Store. Open your downloaded videos with VLC.
